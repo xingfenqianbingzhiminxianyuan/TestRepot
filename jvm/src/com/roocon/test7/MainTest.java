@@ -2,7 +2,7 @@ package com.roocon.test7;
 /**
  * 引用计数法
  * @author 贤元
- * VM Args:-verbose:gc -XX:+PrintGCDetails
+ * VM Args:-verbose:gc -XX:+PrintGCDetailsd
  */
 public class MainTest {
 	private Object instatnce;

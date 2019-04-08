@@ -10,7 +10,7 @@ public class Main extends JFrame{
 	private JButton jb;
 	public Main() {
 		this.setBounds(200, 220, 400, 200);
-		this.setTitle("lambda≤‚ ‘");
+		this.setTitle("lambda≤‚ ‘µÿ∑Ω");
 		jb = new JButton("click");
 		/*jb.addActionListener(new ActionListener() {
 			
