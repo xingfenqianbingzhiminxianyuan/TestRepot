@@ -1,17 +1,14 @@
 package com.roocon.test1;
 
 /**
-<<<<<<< HEAD
- * ������עasdfsafd��asdfsadf��jasdkfasdfasdf
- * @author ��Ԫ
-=======
->>>>>>> branch 'master' of https://github.com/xingfenqianbingzhiminxianyuan/TestRepot.git
- * 添加了注释哈哈哈
+ * 添加了注asdfsafd释asdfsadf；jasdkfasdfasdf
  * @author 贤元
+ * 娣诲姞浜嗘敞閲婂搱鍝堝搱
+ * @author 璐ゅ厓
  *
  */
 public class Demo {
 	public static void main(String[] args) {
-		System.out.println( "嘎嘎 哈哈哈");
+		System.out.println( "鍢庡槑 鍝堝搱鍝�");
 	}
 }
