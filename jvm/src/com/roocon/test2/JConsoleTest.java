@@ -13,6 +13,7 @@ public class JConsoleTest {
 	public byte[] b1 = new byte[128 * 1024];
 
 	public static void main(String[] args) {
+		System.out.println("helo helel");
 		fill(1000);
 	}
 
@@ -20,7 +21,7 @@ public class JConsoleTest {
 		List<JConsoleTest> jlist = new ArrayList<>();
 		for (int i = 0; i < n; i++) {
 			try {
-				Thread.sleep(1000);
+				Thread.sleep(1000123);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
