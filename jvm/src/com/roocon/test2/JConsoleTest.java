@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * VM²ÎÊı£º -Xms100m -Xmx100m -XX:+UseSerialGC 
- * Õâ¶Î´úÂëµÄ×÷ÓÃÊÇ£ºÒÔ128KB/1000ºÁÃëµÄËÙ¶ÈÍùJava¶ÑÖĞÌî³äÊı¾İ£¬Ò»¹²Ìî³ä1000´Î£¬Ê¹ÓÃjconsoleµÄ¡°ÄÚ´æ¡±Ò³Ç©½øĞĞ¼àÊÓ£¬¹Û²ìÇúÏßºÍÖù×´Ö¸Ê¾Í¼µÄ±ä»¯¡£
- * @author ÏÍÔª
+ * VMå‚æ•°ï¼š -Xms100m -Xmx100m -XX:+UseSerialGC 
+ * è¿™æ®µä»£ç çš„ä½œç”¨æ˜¯ï¼šä»¥128KB/1000æ¯«ç§’çš„é€Ÿåº¦å¾€Javaå †ä¸­å¡«å……æ•°æ®ï¼Œä¸€å…±å¡«å……1000æ¬¡ï¼Œä½¿ç”¨jconsoleçš„â€œå†…å­˜â€é¡µç­¾è¿›è¡Œç›‘è§†ï¼Œè§‚å¯Ÿæ›²çº¿å’ŒæŸ±çŠ¶æŒ‡ç¤ºå›¾çš„å˜åŒ–ã€‚
+ *asdfsadfsadfasdfsadfasdfasdf
  *
  */
 public class JConsoleTest {
