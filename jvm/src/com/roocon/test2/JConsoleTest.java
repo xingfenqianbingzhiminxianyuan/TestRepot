@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * VM²ÎÊı£º -Xms100m -Xmx100m -XX:+UseSerialGC 
- * Õâ¶Î´úÂëµÄ×÷ÓÃÊÇ£ºÒÔ128KB/1000ºÁÃëµÄËÙ¶ÈÍùJava¶ÑÖĞÌî³äÊı¾İ£¬Ò»¹²Ìî³ä1000´Î£¬Ê¹ÓÃjconsoleµÄ¡°ÄÚ´æ¡±Ò³Ç©½øĞĞ¼àÊÓ£¬¹Û²ìÇúÏßºÍÖù×´Ö¸Ê¾Í¼µÄ±ä»¯¡£
- * @author ÏÍÔª
+ * VMé™å‚›æšŸé”›ï¿½ -Xms100m -Xmx100m -XX:+UseSerialGC 
+ * æ©æ¬î†Œæµ ï½‡çˆœé¨å‹ªç¶”é¢ã„¦æ§¸é”›æ°«äº’128KB/1000å§£î‚¤î—é¨å‹¯ï¿½ç†·å®³å¯°ï¿½Javaé«å—•è…‘æ¿‰î‚¢å–éç‰ˆåµé”›å±¼ç«´éåï½éï¿½1000å¨†â˜…ç´æµ£è·¨æ•¤jconsoleé¨å‹¨ï¿½æ»ƒå”´ç€›æ¨·ï¿½æ¿‹ã€‰ç»›æç¹˜ç›å²€æ´ƒç‘™å—­ç´ç‘™å‚šç™‚é‡èŒ¬åšéœå±¾ç…´é˜èˆµå¯šç»€å“„æµ˜é¨å‹«å½‰é–æ ¥ï¿½ï¿½
+ *asdfsadfsadfasdfsadfasdfasdf
  *
  */
 public class JConsoleTest {
@@ -14,7 +14,8 @@ public class JConsoleTest {
 
 	public static void main(String[] args) {
 		System.out.println("helo helel");
-		fill(1000);
+		
+		//åœ¨æœ¬åœ°ä»“åº“ä¸­ä¿®æ”¹
 	}
 
 	private static void fill(int n) {
