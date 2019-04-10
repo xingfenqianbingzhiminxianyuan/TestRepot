@@ -4,9 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Java¶ÑÄÚ´æÒç³öÒì³£²âÊÔ
- * @author ÏÍÔª
- * VM Args: -Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
+ * ä¿®æ”¹äº†æ³¨é‡Š
  */
 public class HeapOOM {
 	static class OOMObject{
