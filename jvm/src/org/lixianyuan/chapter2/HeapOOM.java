@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 修改了注释
+ * 把注释去掉了
  */
 public class HeapOOM {
 	static class OOMObject{
