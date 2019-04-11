@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class HeapOOM {
 	static class OOMObject{
-		
+	  //哈哈哈	
 	}
 	
 	public static void main(String[] args) {
